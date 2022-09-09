@@ -1,4 +1,4 @@
-# Clear History in PowerShell
+# Clear History in Windows PowerShell
 
 <details>
   <summary>Extra Info</summary>
